@@ -1,0 +1,26 @@
+.emailForm {
+  flex: 4;
+  padding: 20px;
+}
+
+.newUserItem > textarea {
+  height: 20px;
+  padding: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.newUserGender > textarea {
+  margin-top: 15px;
+}
+
+.emailAddButton {
+  /* width: 80px; */
+  border: none;
+  padding: 10px;
+  background-color: teal;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
